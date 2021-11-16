@@ -1,6 +1,3 @@
-# AICovidVN-Top3-Engine
-
-
 This template using [FastAPI](https://fastapi.tiangolo.com/) to create API. A valid solution submission needs to:
 - Execute successfully 3 scripts under scripts/.
 - Execute `docker-compose up` command to start serving.
